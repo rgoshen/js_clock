@@ -17,5 +17,3 @@ git clone https://github.com/rgoshen/js_clock
 ```
 
 1. open `index.html` file in your browser
-
-## License
